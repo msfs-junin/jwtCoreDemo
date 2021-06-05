@@ -1,0 +1,7 @@
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.csprojAssemblyReference.cache
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.AssemblyInfoInputs.cache
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.AssemblyInfo.cs
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.csproj.CoreCompileInputs.cache
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.MvcApplicationPartsAssemblyInfo.cs
+C:\Codigo\JWT\jwtCoreDemo\jwtCoreDemo\obj\Debug\net5.0\jwtCoreDemo.MvcApplicationPartsAssemblyInfo.cache
